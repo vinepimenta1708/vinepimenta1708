@@ -20,7 +20,7 @@ Systems Analysis & Development graduate (Facens), currently working with **ERP s
 
 ## 📊 GitHub Stats
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinepimenta1708&theme=github_dark" alt="Vinícius's GitHub stats" /> <img height="165" src="https://streak-stats.demolab.com?user=vinepimenta1708&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vinepimenta1708&theme=github_dark&cache_bust=20261114" alt="Vinícius's GitHub stats" /> <img height="165" src="https://streak-stats.demolab.com?user=vinepimenta1708&theme=github-dark-blue&hide_border=true&cache_bust=20261114" alt="GitHub streak" />
 
 ## 📫 Let's Connect
 
